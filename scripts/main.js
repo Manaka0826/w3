@@ -28,4 +28,4 @@ myImage.onclick = function() {
   //let mySrc = myImage.getAttribute('src');
   //console.log("画像をクリックしました");
   
-}
+};
